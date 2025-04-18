@@ -1,1 +1,2 @@
-main
+import OpenAI from "openai";
+OpenAI API key = "kasjfhkjshafkjhakjfheiajkshf328974983124"
