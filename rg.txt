@@ -1,2 +1,1 @@
-import OpenAI from "openai";
-OpenAI API key = "kasjfhkjshafkjhakjfheiajkshf328974983124"
+REACT_APP_API_KEY=jkashfkjaskjfjkew2398328947938274ksjdfjkadsfkjaekj
